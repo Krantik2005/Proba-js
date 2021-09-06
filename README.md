@@ -16,4 +16,4 @@
 7. Добалена проверка полей форм
 8. Отправить без заполнения формы не получится
 
-https://krantik2005.github.io/mesto/index.html
+https://krantik2005.github.io/Proba-js/index.html
